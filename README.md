@@ -55,8 +55,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://madot.ma"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ahmed-achtatar"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ahmed.achtatar@usmba.ac.ma"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://madot.ma"><img src="https://img.shields.io/badge/-madot.ma-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmed-achtatar"><img src="https://img.shields.io/badge/-Ahmed%20Achtatar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ahmed.achtatar@usmba.ac.ma"><img src="https://img.shields.io/badge/-ahmed.achtatar@usmba.ac.ma-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
