@@ -53,7 +53,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://madot.ma"><img src="https://img.shields.io/badge/-madot.ma-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://tech-chro.ma"><img src="https://img.shields.io/badge/-tech-chro.ma-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ahmed-achtatar"><img src="https://img.shields.io/badge/-Ahmed%20Achtatar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ahmed.achtatar@usmba.ac.ma"><img src="https://img.shields.io/badge/-ahmed.achtatar@usmba.ac.ma-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://discord.gg/B38kkZkYjF"><img src="https://img.shields.io/badge/-https://discord.gg/B38kkZkYjF-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
